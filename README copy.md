@@ -1,6 +1,6 @@
-# 🐶 Beagle History
+# Pancake History
 
-Check it out live: [https://beagleswap.info/](https://beagleswap.info/).
+Check it out live: [https://pancakeswap.info/](https://pancakeswap.info/).
 
 ### To Start Development
 
